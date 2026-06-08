@@ -13,10 +13,6 @@ android {
 }
 
 dependencies {
-    // Terminal Emulator
-    implementation 'com.termux.termview:terminal-emulator:0.118.1'
-    implementation 'com.termux.termview:terminal-view:0.118.1'
-    
     // Download Manager
     implementation 'com.squareup.okhttp3:okhttp:4.12.0'
     
